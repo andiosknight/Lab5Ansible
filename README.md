@@ -42,9 +42,7 @@
    ```
 2. Ansible успешно проигнорировал системные роли `base`, `nginx` и `ssh`, выполнив только две целевые задачи: `Очистка старой директории Nginx перед деплоем` и `Создание статической страницы index.html`.
 3. Сценарий завершился со статусом `failed=0`, подтверждая стопроцентную работоспособность логики тегов.
-<img width="1085" height="486" alt="изображение" src="https://github.com/user-attachments/assets/44a6ca4b-cc41-4351-9cb2-fd89af3ad0bc" />
-<img width="1105" height="386" alt="изображение" src="https://github.com/user-attachments/assets/31c15f03-81e0-495c-8d31-1694d71229b8" />
-
+<img width="1110" height="346" alt="Снимок экрана 2026-05-22 211322" src="https://github.com/user-attachments/assets/7207d88f-9d25-435c-9aa5-45351a688c90" />
 
 
 ### Шаг 5. Верификация результатов автоматизации
